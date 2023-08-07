@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Site Reliability Engineering
+- Site Reliability Engineer
 - DevOps
 
 <!--
