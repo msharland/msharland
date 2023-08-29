@@ -1,0 +1,10 @@
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-ping
+spec:
+  containers:
+  - name: pod-ping
+    image: alpine:latest
+    command: ["ping", "127.0.0.1"]
