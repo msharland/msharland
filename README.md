@@ -3,6 +3,14 @@
 - Site Reliability Engineer
 - DevOps
 
+PowerShell  
+Azure  
+AWS  
+Docker  
+Helm  
+Kubernetes
+Terraform 
+
 <!--
 **msharland/msharland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
