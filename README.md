@@ -3,7 +3,6 @@
 
 A collection of achievements, awards, certifications, pictures, testimonials and code samples from the highlights of my career.
 
-## #OpenToWork
 ---
 
 ## Code  
