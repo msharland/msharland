@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Inventory_API.Controllers
 {
@@ -6,11 +7,19 @@ namespace Inventory_API.Controllers
     [Route("[controller]")]
     public class InventoryController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
+        [HttpGet]
+        public ActionResult<IEnumerable<Inventory>> Get()
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
+            var inventories = new List<Inventory>()
+            {
+                new Inventory { Id = 0, Name = "Cup", },
+                new Inventory { Id = 1, Name = "Food", },
 
+
+            };
+            return Ok(inventories);
+        }
+       
         private readonly ILogger<InventoryController> _logger;
 
         public InventoryController(ILogger<InventoryController> logger)
@@ -18,16 +27,5 @@ namespace Inventory_API.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetInventory")]
-        public IEnumerable<Inventory> Get()
-        {
-            return Enumerable.Range(1, 5).Select(index => new Inventory
-            {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
-        }
     }
 }
