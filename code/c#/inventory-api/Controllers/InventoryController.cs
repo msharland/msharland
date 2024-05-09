@@ -12,9 +12,16 @@ namespace Inventory_API.Controllers
         {
             var inventories = new List<Inventory>()
             {
+                // Will add SQL database connection soon ...
                 new Inventory { Id = 0, Name = "Cup", },
-                new Inventory { Id = 1, Name = "Food", },
-
+                new Inventory { Id = 1, Name = "Bowl", },
+                new Inventory { Id = 2, Name = "Plate", },
+                new Inventory { Id = 3, Name = "Fork", },
+                new Inventory { Id = 4, Name = "Garbage Bag", },
+                new Inventory { Id = 5, Name = "Shoes", },
+                new Inventory { Id = 6, Name = "Socks", },
+                new Inventory { Id = 7, Name = "Pants", },
+                new Inventory { Id = 8, Name = "Shirt", }
 
             };
             return Ok(inventories);
