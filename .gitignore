@@ -1,0 +1,10 @@
+
+*.cache
+*.v2
+*.vsidx
+code/c\#/inventory-api/.vs/Inventory-API/v17/.suo
+code/c\#/inventory-api/obj/Inventory-API.csproj.nuget.dgspec.json
+code/c\#/inventory-api/obj/Inventory-API.csproj.nuget.g.props
+code/c\#/inventory-api/obj/Inventory-API.csproj.nuget.g.targets
+code/c\#/inventory-api/obj/project.assets.json
+code/c\#/inventory-api/obj/Debug/net8.0/Inventory-API.GeneratedMSBuildEditorConfig.editorconfig
