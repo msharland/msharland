@@ -13,15 +13,15 @@ namespace Inventory_API.Controllers
             var inventories = new List<Inventory>()
             {
                 // Will add SQL database connection soon ...
-                new Inventory { Id = 0, Name = "Cup", },
-                new Inventory { Id = 1, Name = "Bowl", },
-                new Inventory { Id = 2, Name = "Plate", },
-                new Inventory { Id = 3, Name = "Fork", },
-                new Inventory { Id = 4, Name = "Garbage Bag", },
-                new Inventory { Id = 5, Name = "Shoes", },
-                new Inventory { Id = 6, Name = "Socks", },
-                new Inventory { Id = 7, Name = "Pants", },
-                new Inventory { Id = 8, Name = "Shirt", }
+                new Inventory { Id = 0, Name = "Cup",         Description = ""},
+                new Inventory { Id = 1, Name = "Bowl",        Description = "" },
+                new Inventory { Id = 2, Name = "Plate",       Description = "" },
+                new Inventory { Id = 3, Name = "Fork",        Description = "" },
+                new Inventory { Id = 4, Name = "Garbage Bag", Description = "" },
+                new Inventory { Id = 5, Name = "Shoes",       Description = "" },
+                new Inventory { Id = 6, Name = "Socks",       Description = "" },
+                new Inventory { Id = 7, Name = "Pants",       Description = "" },
+                new Inventory { Id = 8, Name = "Shirt",       Description = "" }
             };
             return Ok(inventories);
         }
