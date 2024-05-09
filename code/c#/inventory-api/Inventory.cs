@@ -1,6 +1,6 @@
 namespace Inventory_API
 {
-    public class WeatherForecast
+    public class Inventory
     {
         public DateOnly Date { get; set; }
 

@@ -8,3 +8,5 @@ code/c\#/inventory-api/obj/Inventory-API.csproj.nuget.g.props
 code/c\#/inventory-api/obj/Inventory-API.csproj.nuget.g.targets
 code/c\#/inventory-api/obj/project.assets.json
 code/c\#/inventory-api/obj/Debug/net8.0/Inventory-API.GeneratedMSBuildEditorConfig.editorconfig
+code/c\#/inventory-api/obj/Debug/net8.0/Inventory-API.csproj.FileListAbsolute.txt
+code/c\#/inventory-api/obj/Debug/net8.0/Inventory-API.sourcelink.json
