@@ -22,7 +22,6 @@ namespace Inventory_API.Controllers
                 new Inventory { Id = 6, Name = "Socks", },
                 new Inventory { Id = 7, Name = "Pants", },
                 new Inventory { Id = 8, Name = "Shirt", }
-
             };
             return Ok(inventories);
         }
