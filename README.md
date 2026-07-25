@@ -1,25 +1,23 @@
 
-# :book: Portfolio
+# Matt Sharland | Technology Portfolio
 
-A collection of achievements, awards, certifications, pictures, testimonials and code samples from the highlights of my career.
+Technology professional focused on automation, observability, infrastructure, and dependable delivery. This portfolio highlights selected code, professional recognition, technical certifications, public speaking, and feedback from colleagues.
 
----
+## Explore
 
-## Code  
-- [Code Samples - Readme](./code/README.md)  
-- [Code Samples - Raw Files](./code)  
-
-## Achievements
-
+- [Code Samples](./code/README.md)
 - [Awards](#awards)
 - [Certifications](#certifications)
 - [Public Speaking](#public-speaking)
 - [Testimonials](#testimonials)
+- [Website](https://www.mattsharland.com/)
+- [LinkedIn](https://www.linkedin.com/in/msharland/)
 
-## External Links
+---
 
-- [www.mattsharland.com](https://www.mattsharland.com/)  
-- [LinkedIn Profile](https://www.linkedin.com/in/msharland/)  
+## Code
+
+Browse the [code-sample overview](./code/README.md) or [view the source files](./code).
 
 ---
 
@@ -53,26 +51,29 @@ A collection of achievements, awards, certifications, pictures, testimonials and
 ### Rock Honors Nomination  
 ![Rock Honors Nomination](images/Matt-Sharland-2022-Rock-Honors-Nomination.jpg)  
 
-[Back to Top](#achievements)
+[Back to Top](#explore)
 
 ---
 
 ## Certifications
 
-- [2019, SAFe 4 DevOps Practicioner](#2019-safe-4-devops-practicioner)  
-- [2014, Imprivata](#2014-imprivata)  
-- [2010, CompTIA Network +](#2010-comptia-network)
-- [2009, MCSA 2003](#2009-mcsa-2003) 
-- [2009, MCSE 2003](#2009-mcse-2003)  
-- [2009, MCTS Vista](#2009-mcts-vista)  
+- [2019, SAFe 4 DevOps Practitioner](#2019-safe-4-devops-practitioner)
+- [2014, Imprivata](#2014-imprivata)
+- [2014, MCSA 2012](#2014-mcsa-2012)
+- [2013, MCSE: Private Cloud](#2013-mcse-private-cloud)
+- [2012, AppSense](#2012-appsense)
+- [2010, CompTIA Network+](#2010-comptia-network)
+- [2009, MCSA 2003](#2009-mcsa-2003)
+- [2009, MCSE 2003](#2009-mcse-2003)
+- [2009, MCTS Vista](#2009-mcts-vista)
 - [2009, MCTS Vista, Configuration](#2009-mcts-vista-configuration)
-- [2008, CompTIA A+](#2008-comptia-a)  
-- [2008, MCP XP](#2008-mcp-xp)  
+- [2008, CompTIA A+](#2008-comptia-a)
+- [2008, MCP XP](#2008-mcp-xp)
 
 ---
 
-### 2019, SAFe 4 DevOps Practicioner
-![2019, SAFe 4 DevOps Practicioner](images/Matt-Sharland-2019-SAFe.PNG)
+### 2019, SAFe 4 DevOps Practitioner
+![2019, SAFe 4 DevOps Practitioner](images/Matt-Sharland-2019-SAFe.PNG)
 
 ---
 
@@ -91,7 +92,7 @@ A collection of achievements, awards, certifications, pictures, testimonials and
 
 ---
 
-### 2012, AppSense, no relation
+### 2012, AppSense
 ![2012, AppSense](images/Matt-Sharland-2012-AppSense.PNG)
 
 ---
@@ -129,7 +130,7 @@ A collection of achievements, awards, certifications, pictures, testimonials and
 ### 2008, MCP XP
 ![2008, MCP XP](images/Matt-Sharland-2008-MCP-XP.PNG)
 
-[Back to Top](#achievements)
+[Back to Top](#explore)
 
 ---
 
@@ -145,7 +146,7 @@ I presented for Best Achievement in a Technology Support Role.
 ### The Fillmore Detroit
 ![The Fillmore Detroit](images/Matt-Sharland-Presenter-at-the-Rock-Honors-2.jpg)
 
-[Back to Top](#achievements)
+[Back to Top](#explore)
 
 ---
 
